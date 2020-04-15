@@ -23,7 +23,7 @@ subtitle: A Really Nice Bloke
 instagramlink: "https://www.instagram.com/lovely.man_/"
 instagramusername: "@lovely.man_"
 headerimage: https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/92934108_1131640867189005_2538914340153589760_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_oc=AQnZ6zeqtxx2A6SrvTz0MlB6beTEE_kgdJa4yT17aD5wpaB7Nn6LTMs_rsrHuiQXT55oZf1mxnVfP-amfxw44xI8&_nc_ht=scontent-lhr8-1.xx&oh=a27c83c4bc09efa922bff007bf76bd54&oe=5EBB3856
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lovelyman" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
