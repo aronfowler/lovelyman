@@ -4,18 +4,6 @@ title:  "In Defence of Lads on Tour"
 summary: "A comment on the reality and unreality of tourist expriences"
 date:   2020-04-15 20:27:00 +0100
 ---
-In Defence of Lads on Tour
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+I do not advocate lads-on-tour and other such holidays, nor do I find them attractive; I am not disposed to enjoy burning by the pool, eating full English breakfast in swimming trunks and swaggering down the strip dispensing banter and drinking extraordinary mixes of alcohol from buckets and fishbowls. Nevertheless, I am here moved to come out in defence against charges that these forms of tourism are without meaningful content and inferior to experiences of ‘culture’ — a middle class ideal — ostensibly on offer at hotspot attractions in Athens, Rome or London, for example.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-
-Testaroo
+It will be my contention that such spaces of cultural attraction do not present themselves for what they are, but rather take form as spectacle and imaginary. They are empty of the proclaimed enriching cultural content that will ‘expand horizons’ because these spaces are uninhabited. On the other hand, the holiday destinations of lads-on-tour etc. are honest spaces of embodied and living activity.
