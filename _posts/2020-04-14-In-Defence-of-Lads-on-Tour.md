@@ -43,7 +43,7 @@ The lads-on-tour holiday was selected specifically here because it typically com
 It may be that the majority of cultural tourists are indifferent to reality and unreality their only concern is to represent themselves as ‘cultured’, in which case my words are of no importance. Although, the appearance of being cultured depends on others being convinced by it, and perhaps now the reader will not be convinced and see the emptiness of this tourist; in this respect, those indifferent to the content of the essay might be impacted indirectly by its effects (such a sentence can only be written in the hope of a very unlikely large readership).
 
 It may be accused that I have herein attacked a straw man; that I have mischaracterised a form of tourism which is not so rigid, and in any case no holiday consists absolutely of visits to _unreal_ attractions. I need only make clear in this regard that I write of the attractions and experience common to these holidays, but which are only a greater or lesser part of the whole holiday. The _unreal_ experiences described will likely be preceded or followed by _real_ experience — exploring, swimming, dancing, relaxing etc. 
-
-
+<br>
+<br>
 <hr>
 <sup>1 By the same token, cultural locations, ‘distinction’ of place, become capitalised assets managed to an economic logic whereby the ultimate objective is to extract exchange value. Value in this sense is extracted from the ‘asset’ through ticket sales to the specific site in competition with other attractions or by leveraging it to boost (paying) visitor numbers in the city or region in competition with other cities and regions. Again, social relations, activity and living experience are eschewed.
