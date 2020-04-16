@@ -88,13 +88,14 @@ The surrounding areas of these places display very little, if anything, in the w
 
 The reasons for the underwhelming impact of such projects are manifold, but essentially amount to a case of the cart coming before the horse. What makes for a prosperous and active city is places of work - particularly highly skilled work. It is skills, business, infrastructure etc. that determine a cities fortunes. Paul Swinney <sup>6 writes,
 
-_“The fundamental challenge that struggling places face is to attract more business investment in high-skilled activities, which in turn will create more and better-paid jobs. One of the principal reasons they find this difficult to do is because they haven’t got the skilled workers that high-skilled businesses are looking for. The opening of a cultural institution doesn’t change this, as it doesn’t improve the skills of existing residents. It is also unlikely to attract-in skilled workers from elsewhere either, who will look for the availability of a job first, then weigh up the cultural offer of a place after.”
+_“The fundamental challenge that struggling places face is to attract more business investment in high-skilled activities, which in turn will create more and better-paid jobs. One of the principal reasons they find this difficult to do is because they haven’t got the skilled workers that high-skilled businesses are looking for. The opening of a cultural institution doesn’t change this, as it doesn’t improve the skills of existing residents. It is also unlikely to attract-in skilled workers from elsewhere either, who will look for the availability of a job first, then weigh up the cultural offer of a place after.”_
 
 Culture-led regeneration schemes, therefore, often do not tackle the more fundamental causes of decline. The new proposals for Wakefield city centre have the same problem. 
 
 Furthermore, such schemes fail when they are envisaged in isolation, and they are preoccupied with simplistic visions which misconceive real life in the city. As such, they implement one-dimensional concepts and utter simple statements in response to complex problems. They neglect the basic fact that what constitutes a city is a multitude of diverse people and activities which are, moreover, overlapping and interrelated. 
 
-Consider this thought experiment: Would Wakefield have avoided altogether the decline of its city centre if, all else being equal, it had had in the precinct performance and gallery space?
+Consider this thought experiment: would Wakefield have avoided altogether the decline of its city centre if, all else being equal, it had had in the precinct performance and gallery space?
+
 The answer to my mind is no. Only a small proportion of people organise their spatial activity in terms of attractions of higher Culture and facilities of professional creativity. The decline of the city centre has been multi-causal, and so the response must be multi-faceted. 
 
 A healthy, busy and sustainable city centre is fundamentally of mixed-use and mixed-users, because this ensures the area is populated and active at all times, making for better security and a positive sense of place. Whereas the proposals for Wakefield city centre are dominated by a single type of use – or very similar uses - of space by a single type of person (more on the homogeneity of users below). 
@@ -131,6 +132,7 @@ At the consultation, you described to me the creative and culture-led strategy a
 Now, I appreciate it is much easier to find fault with urban plans than to provide a positive alternative. I cannot produce an alternative master plan over the weekend following the consultation.  Concrete proposals are difficult and constrained by a number of factors – not least conditions placed on funding. For this reason, I sympathise with you, and am inclined not oppose the council’s plans for the city centre, I only advise you that they will have very minimal positive impact.
 
 Yours sincerely,
+
 Lovely Man
 
 <br>
