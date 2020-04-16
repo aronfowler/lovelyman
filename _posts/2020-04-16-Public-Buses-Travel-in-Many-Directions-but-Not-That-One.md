@@ -6,9 +6,9 @@ author: "Lovely Man"
 ---
 
 ![bus station](/assets/entrance.jpg)
-The most pivotal component in any delivery network is the _regional distribution centre_, where a high volume of units are collated, catalogued and consigned for dispatch. In the business of transporting marginalised people between marginalised places, the units processed seem to have certain ideas and a certain agency of their own, and so, for the sake of distinction, a more specialised term is used: _bus station_.
+The most pivotal component in any delivery network is the _regional distribution centre,_ where a high volume of units are collated, catalogued and consigned for dispatch. In the business of transporting marginalised people between marginalised places, the units processed seem to have certain ideas and a certain agency of their own, and so, for the sake of distinction, a more specialised term is used: _bus station_.
 
-For technocrats with an appetite for efficient infrastructure, there are two ideal models of bus station available á la carte: _the correspondence model_; and _the frequency model_.<sup>1  
+For technocrats with an appetite for efficient infrastructure, there are two ideal models of bus station available á la carte: _the correspondence model_; and _the frequency model_.(1)  
   
 Wakefield bus station, however, is marked by logistical laxity and so the dish served is inevitably not as advertised. The large geographical footprint suggests the station was built to the correspondence model but the buses do not correspond, and neither are they frequent. There again, designs, models and concepts never do quite pan out as conceived in the planning office or the architect’s studio – not if anyone living is involved, that is. 
 
@@ -26,7 +26,7 @@ In a direct display of disrespect to the ham and cheese sandwich in her handbag,
 
 Against the back wall by the disabled toilet, a placid staffie sulks in solidarity with her sullen owner who bears an unsaid grief, his Nike Total 90s a shoulder-width apart. The stocky dog does not know what begrudges the skinny man but bows her head anyway and frowns out of loyalty. The man’s eyebrow piercing and three-button Top Man T-shirt indicate a certain stability of character; he is comfortable in himself, having settled over a decade ago on a style that suits him. Approaching the pair is, therefore, not entirely perilous but anyone seeking to intervene, asking the owner, _‘what’s up with you?’_ on behalf of the dog, will be promptly told to piss off.
 
-If the dog owner’s knickers are in a twist, he is at least in a building where a more comfortable pair can be purchased. Knicker Man (Richard) displays his stock of intimate womenswear from a likewise intimate market stall in the southern end of the bus station, having sought refuge there when the council capitulated and agreed to sell the city’s market hall to the developers that besieged it.</sup>2 The stall serves an older clientele who wish to comprehensively cover their bits. The underwear for sale is, therefore, at the more conservative end of the spectrum, which reflects quite acutely the sole trader’s modest lifestyle. Knicker Man is an honest man and a humble man. He has been content for over thirty years to pay the mortgage, feed the family and partake in the pub quiz on Wednesday nights; never pretending, nor intending, anything more.
+If the dog owner’s knickers are in a twist, he is at least in a building where a more comfortable pair can be purchased. Knicker Man (Richard) displays his stock of intimate womenswear from a likewise intimate market stall in the southern end of the bus station, having sought refuge there when the council capitulated and agreed to sell the city’s market hall to the developers that besieged it (2). The stall serves an older clientele who wish to comprehensively cover their bits. The underwear for sale is, therefore, at the more conservative end of the spectrum, which reflects quite acutely the sole trader’s modest lifestyle. Knicker Man is an honest man and a humble man. He has been content for over thirty years to pay the mortgage, feed the family and partake in the pub quiz on Wednesday nights; never pretending, nor intending, anything more.
 
 ![bus station 3](/assets/WB5.jpg)
 
@@ -41,15 +41,15 @@ Passengers-to-be typically stand or sit as they wait to embark their bus, but Kn
 As part of a council press release on the inside page, the word ‘development’ is conspicuously preceded by two intangible adjectives: ‘creative’ and ‘cutting-edge’.  It proclaims a multi-million pound vision of urban and economic regeneration through cultural institutions, creative industries and artistic installations. Wakefield, it is promised, will be transformed into ‘the creative heart of the North’, and it all smacks of a quite ideal spectacle.  
 
 
-Knicker Man’s lower back communicates via a different medium that the benefits of perching are only temporary. Fifty-nine years earlier, Jane Jacobs wrote that "_government administration officials … do not invent planning theories nor, surprisingly, even economic doctrine about cities. They are enlightened, and they pick up their ideas from idealists, about a generation late_ <sup>3." In an act of twisted homage to the urban studies luminary, or else out of ignorance, planners and politicians of Wakefield have taken Jacobs’s sharp indictment as an instruction.
+Knicker Man’s lower back communicates via a different medium that the benefits of perching are only temporary. Fifty-nine years earlier, Jane Jacobs(3) wrote that "_government administration officials … do not invent planning theories nor, surprisingly, even economic doctrine about cities. They are enlightened, and they pick up their ideas from idealists, about a generation late_." In an act of twisted homage to the urban studies luminary, or else out of ignorance, planners and politicians of Wakefield have taken Jacobs’s sharp indictment as an instruction.
 
-The idea of the ‘creative city’ has been socially divisive and economically disappointing for almost twenty years, and ‘culture-led’ regeneration is a horse flogged worldwide before now. Reproducing a well-worn concept is fine where it works, only the initiatives in question have had miniscule, if any, success elsewhere <sup>4 . But marginal towns and cities in decline must at least try, and if it was not one of these formulas, it would be another from the same shelf – maybe the ‘high-tech’ or the ‘green’ city.
+The idea of the ‘creative city’ has been socially divisive and economically disappointing for almost twenty years, and ‘culture-led’ regeneration is a horse flogged worldwide before now. Reproducing a well-worn concept is fine where it works, only the initiatives in question have had miniscule, if any, success elsewhere(4). But marginal towns and cities in decline must at least try, and if it was not one of these formulas, it would be another from the same shelf – maybe the ‘high-tech’ or the ‘green’ city.
 
 If Knicker Man is not au fait with urbanism fads of the last two decades, it is because he has had more immediate concerns, such as a life to live. If he is unacquainted with certain ideological spaces that exist only intellectually, it is because his life has been more concretely emplaced. This notwithstanding, the news of redevelopment strikes him as ominous for reasons of his own. Experience, after all, has furnished him with the understanding that current users of a site must first be cleared before any new development can be constructed; and current users do not have much leverage in the matter if they are of an undervalued class, have minimal economic clout and travel by bus.
 
   ...
   
-  In search of substance, and sweeping aside abstract vocabulary designed to dazzle, Knicker Man reads further. The yield of useful information is relatively low because at this stage the plans are simply an expensive vision, and, in any case, it is standard practice to spout guff in the marketing of redevelopment and regeneration projects. Nevertheless, the details extracted are these: 
+In search of substance, and sweeping aside abstract vocabulary designed to dazzle, Knicker Man reads further. The yield of useful information is relatively low because at this stage the plans are simply an expensive vision, and, in any case, it is standard practice to spout guff in the marketing of redevelopment and regeneration projects. Nevertheless, the details extracted are these: 
 
 The proposed plan consists of two ‘hubs’ in the city centre. Hubba hubba. There will be a creative business hub that will house and link cultural organisations, businesses, entrepreneurs, artists and influencers, and there will be a cultural hub with events and exhibitions of culture and art. There will be installations and signposting around the city to complement and link these hubs. Existing ‘assets’ - the theatre, studios, galleries etc. - will be enhanced also. 
 
@@ -81,12 +81,12 @@ Let me first state my position clearly: I do not oppose _per se_ the council’s
 
 The intentions of the plans are good, and aiming to re-centre the city after many years of de-centring is long needed. As far as the proposed developments will inject new activity on sites where there is currently none, the plans are necessary, however, as I will outline, not sufficient, and not without shortcomings to be addressed.
 
-The idea of the ‘creative city’, in various forms, is not a new one, neither is the initiative to make ‘Culture’ a central tenet of an urban vision. The evidence, as far as I can find any, on creative and culture-led regeneration is either inconclusive or, in fact, shows it to have had no significant impact <sup>5 .
+The idea of the ‘creative city’, in various forms, is not a new one, neither is the initiative to make ‘Culture’ a central tenet of an urban vision. The evidence, as far as I can find any, on creative and culture-led regeneration is either inconclusive or, in fact, shows it to have had no significant impact(5).
   
 To cite examples:  the Middlesbrough Museum of Modern Art, in the centre of Middlesbrough; our own Hepworth Gallery; the Sage and the Baltic galleries in Gateshead; and even the O2 Arena in London. 
 The surrounding areas of these places display very little, if anything, in the way of increased activity or improved economic performance. 
 
-The reasons for the underwhelming impact of such projects are manifold, but essentially amount to a case of the cart coming before the horse. What makes for a prosperous and active city is places of work - particularly highly skilled work. It is skills, business, infrastructure etc. that determine a cities fortunes. Paul Swinney <sup>6 writes,
+The reasons for the underwhelming impact of such projects are manifold, but essentially amount to a case of the cart coming before the horse. What makes for a prosperous and active city is places of work - particularly highly skilled work. It is skills, business, infrastructure etc. that determine a cities fortunes. Paul Swinney(6) writes,
 
 _“The fundamental challenge that struggling places face is to attract more business investment in high-skilled activities, which in turn will create more and better-paid jobs. One of the principal reasons they find this difficult to do is because they haven’t got the skilled workers that high-skilled businesses are looking for. The opening of a cultural institution doesn’t change this, as it doesn’t improve the skills of existing residents. It is also unlikely to attract-in skilled workers from elsewhere either, who will look for the availability of a job first, then weigh up the cultural offer of a place after.”_
 
@@ -106,11 +106,11 @@ The plans proposed at the public consultation do not sincerely meet these condit
 
 What is more, the ‘cultural sector’ is a relatively closed segment of society. Its institutions favour those of a certain class, who already possess the correct cultural capital, as defined according to the dominant hegemony of a higher Culture, to access and appreciate the value of their offering. Many in the sector, and city planners of a similar background, do not fully understand how unlikely it is for working-class people to visit their attractions. Events can be made free of charge but if they are not appropriate to the needs and socio-cultural dispositions of Wakefield residents they remain exclusionary, only more subtly.  
 
-What is more, the ‘cultural sector’ is a relatively closed segment of society. Its institutions favour those of a certain class, who already possess the correct cultural capital, as defined according to the dominant hegemony of a higher Culture, to access and appreciate the value of their offering. Many in the sector, and city planners of a similar background, do not fully understand how unlikely it is for working-class people to visit their attractions. Events can be made free of charge but if they are not appropriate to the needs and socio-cultural dispositions of Wakefield residents they remain exclusionary, only more subtly.  The data shows cultural engagement in England to be low <sup>7 . I suspect in the case of Wakefield this will be more acute, and a majority of Wakefield residents will be indifferent to, even alienated by, the cultural offer of the plans.
+What is more, the ‘cultural sector’ is a relatively closed segment of society. Its institutions favour those of a certain class, who already possess the correct cultural capital, as defined according to the dominant hegemony of a higher Culture, to access and appreciate the value of their offering. Many in the sector, and city planners of a similar background, do not fully understand how unlikely it is for working-class people to visit their attractions. Events can be made free of charge but if they are not appropriate to the needs and socio-cultural dispositions of Wakefield residents they remain exclusionary, only more subtly.  The data shows cultural engagement in England to be low(7). I suspect in the case of Wakefield this will be more acute, and a majority of Wakefield residents will be indifferent to, even alienated by, the cultural offer of the plans.
   
 As such, the plans fall short on the creation of a participatory space, where people feel they ‘fit in’, and can develop an affective sense of place. 
 
-The proposed developments could be framed as essential workplaces, boosting jobs in the city centre; the problem is that employment in the cultural and creative sector is marked by significant exclusions of those from working class social origins <sup>8 . Occupations in these industries are not accessible to all and, considering the demographic of Wakefield, not accessible to most people living in the city.
+The proposed developments could be framed as essential workplaces, boosting jobs in the city centre; the problem is that employment in the cultural and creative sector is marked by significant exclusions of those from working class social origins(8). Occupations in these industries are not accessible to all and, considering the demographic of Wakefield, not accessible to most people living in the city.
 
 In one sense, a barrier to entry is removed by bringing the industry to Wakefield, as high costs of living - such as they are in London where most of the industry is concentrated - are reduced. Nevertheless, significant exclusionary barriers to employment will persist. These include: a geographical skills gap; the prevalence of unpaid labour (internships being the common route of entry) and unfairly paid work (through freelance work, temporary contracts, traineeships, or project-based work); knowing other creatives is essential for finding work; and cultural tastes play an important role in getting into upper-middle class occupations. Hiring can be a form of ‘cultural matching’, excluding those who do not have the shared values, attitudes and tastes of specific social groups. This is especially true in cultural and creative occupations.
 
@@ -137,19 +137,20 @@ Lovely Man
 
 <br>
 <hr>
-<sup>1 On the correspondence model, various buses of various routes park simultaneously, enabling passengers to transfer immediately between lines. This type of bus station is land extensive in order that a number of buses are all able to park.
-Bus stations built to the frequency have staggered and, of course, frequent arrival and departure times. The frequency model does not require buses to stop and wait, thus reducing the size of the bus station, if not eliminating the need for it altogether. 
+<sup>(1) On the correspondence model, various buses of various routes park simultaneously, enabling passengers to transfer immediately between lines. This type of bus station is land extensive in order that a number of buses are all able to park.
 
-<sup>2 The sale was, however, never completed. The market hall remains empty. 
+<sup>Bus stations built to the frequency have staggered and, of course, frequent arrival and departure times. The frequency model does not require buses to stop and wait, thus reducing the size of the bus station, if not eliminating the need for it altogether. 
+
+<sup>(2) The sale was, however, never completed. The market hall remains empty. 
   
-<sup>3 Jacobs, J., 2011. 'The death and life of great American cities' 50th anniversary ed., New York: Modern Library. (p.16) 
+<sup>(3) Jacobs, J., 2011. 'The death and life of great American cities' 50th anniversary ed., New York: Modern Library. (p.16) 
   
-<sup>4 What Works Centre for Local Economic Growth., 2016. 'Evidence Review 3: Sport and Culture'
+<sup>4() What Works Centre for Local Economic Growth., 2016. 'Evidence Review 3: Sport and Culture'
   
-<sup>5 Ibid.
+<sup>(5) Ibid.
   
-<sup>6 https://www.centreforcities.org/blog/regeneration-culture-way-forward-left-behind-places/ 
+<sup>(6) https://www.centreforcities.org/blog/regeneration-culture-way-forward-left-behind-places/ 
   
-<sup>7 See Brook, O., O’Brien, D. and Taylor, M., 2018. Panic! Social Class, Taste and Inequalities in the Creative Industries
+<sup>7() See Brook, O., O’Brien, D. and Taylor, M., 2018. Panic! Social Class, Taste and Inequalities in the Creative Industries
   
-<sup>8 Ibid.  
+<sup>(8) Ibid.  
