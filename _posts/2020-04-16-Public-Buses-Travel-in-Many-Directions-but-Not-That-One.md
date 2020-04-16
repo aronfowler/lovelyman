@@ -69,8 +69,7 @@ There is an unmistakable senselessness to the regeneration plans; a conspicuous 
 Lovely Man, a regular bus station user and top bloke with a tremendous fleece, takes it upon himself to write a letter to the city planning officials after attending a public consultation. Although planning consultations are generally more a device to manufacture consent and thereby legitimise and validate decisions already made, Lovely Man responds politely and in good faith:
 
 <br>
-------------------------------------------------------------------------------------------Lovely Man
-------------------------------------------------------------------------------------------03 February 2020
+<br>
 
 Dear Mr XXXXXX XXXXXXXX,
 
