@@ -2,7 +2,7 @@
 layout: post
 title:  "In Defence of Lads on Tour"
 summary: "A comment on the reality and unreality of tourist expriences"
-date:   2020-04-10 12:00:00 +0100
+date: 2019-07-20.MARKUP Lovely Man
 In Defence of Lads on Tour
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 
