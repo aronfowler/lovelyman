@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Post Template"
-summary: "my custom summary goes here and appears on the home page"
+title:  "In Defence of Lads on Tour"
+summary: "A comment on the reality and unreality of tourist expriences"
 date:   2020-04-10 12:00:00 +0100
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
