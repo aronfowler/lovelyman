@@ -6,6 +6,7 @@ author: "Lovely Man"
 ---
 
 ![bus station](/assets/entrance.jpg)
+
 The most pivotal component in any delivery network is the _regional distribution centre,_ where a high volume of units are collated, catalogued and consigned for dispatch. In the business of transporting marginalised people between marginalised places, the units processed seem to have certain ideas and a certain agency of their own, and so, for the sake of distinction, a more specialised term is used: _bus station_.
 
 For technocrats with an appetite for efficient infrastructure, there are two ideal models of bus station available á la carte: _the correspondence model_; and _the frequency model_.(1)  
