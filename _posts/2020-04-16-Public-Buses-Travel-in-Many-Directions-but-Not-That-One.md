@@ -5,4 +5,4 @@ Summary: ""
 author: "Lovely Man"
 ---
 
-![bus station](https://github.com/aronfowler/aronfowler.github.io/blob/master/assets/entrance.jpg//700x400)
+![bus station](https://github.com/aronfowler/aronfowler.github.io/blob/master/assets/entrance.jpg)
