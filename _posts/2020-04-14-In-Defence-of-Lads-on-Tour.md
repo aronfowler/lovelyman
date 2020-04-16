@@ -46,4 +46,4 @@ It may be accused that I have herein attacked a straw man; that I have mischarac
 
 
 <br>
-</sup> By the same token, cultural locations, ‘distinction’ of place, become capitalised assets managed to an economic logic whereby the ultimate objective is to extract exchange value. Value in this sense is extracted from the ‘asset’ through ticket sales to the specific site in competition with other attractions or by leveraging it to boost (paying) visitor numbers in the city or region in competition with other cities and regions. Again, social relations, activity and living experience are eschewed.
+<sup>1 By the same token, cultural locations, ‘distinction’ of place, become capitalised assets managed to an economic logic whereby the ultimate objective is to extract exchange value. Value in this sense is extracted from the ‘asset’ through ticket sales to the specific site in competition with other attractions or by leveraging it to boost (paying) visitor numbers in the city or region in competition with other cities and regions. Again, social relations, activity and living experience are eschewed.
