@@ -139,7 +139,7 @@ Lovely Man
 
 <sup>(1) On the correspondence model, various buses of various routes park simultaneously, enabling passengers to transfer immediately between lines. This type of bus station is land extensive in order that a number of buses are all able to park.
 
-Bus stations built to the frequency have staggered and, of course, frequent arrival and departure times. The frequency model does not require buses to stop and wait, thus reducing the size of the bus station, if not eliminating the need for it altogether. 
+<sup>Bus stations built to the frequency have staggered and, of course, frequent arrival and departure times. The frequency model does not require buses to stop and wait, thus reducing the size of the bus station, if not eliminating the need for it altogether. 
 
 <sup>(2) The sale was, however, never completed. The market hall remains empty. 
   
