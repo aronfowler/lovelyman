@@ -4,7 +4,7 @@ title:  "The Gender Reveal"
 summary: 
 date:   2020-04-15 20:27:00 +0100
 ---
-The Gender Reveal
+<br>
 
 My brother and his girlfriend have elected to Americanise the gestation period of their baby with a ‘gender reveal’ — well, his girlfriend has, the damp dishcloth just going along with it.
 So here we all are with nibbles and drinks, in a room adorned with simplistic symbolism, awaiting the pop of a balloon, out of which will rain confetti. Blue for a boy. Pink for a girl. I endure through both ears the guests most delighted to be here, who inform me in absolute terms that boys are like _this_ and girls are like _that_.
