@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Public Buses Travel in Many Directions, but Not That One"
-Summary: ""
+Summary: "On the appropriateness of 'creative' and 'culture-led' regeneration in Wakefield"
 author: "Lovely Man"
 ---
 
