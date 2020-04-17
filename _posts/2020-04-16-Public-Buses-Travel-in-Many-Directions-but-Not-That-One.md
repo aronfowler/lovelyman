@@ -11,7 +11,7 @@ The most pivotal component in any delivery network is the _regional distribution
 
 For technocrats with an appetite for efficient infrastructure, there are two ideal models of bus station available á la carte: _the correspondence model_; and _the frequency model_.(1)  
   
-Wakefield bus station, however, is marked by logistical laxity and so the dish served is inevitably not as advertised. The large geographical footprint suggests the station was built to the correspondence model but the buses do not correspond, and neither are they frequent. There again, designs, models and concepts never do quite pan out as conceived in the planning office or the architect’s studio – not if anyone living is involved, that is. 
+Wakefield bus station, however, is marked by logistical laxity and so the dish served is inevitably not as advertised. The large geographical footprint suggests the station was built to the correspondence model but the buses do not correspond, and neither are they frequent. There again, designs, models and concepts never do quite pan out as conceived in the planning office or the architect’s studio – not if anyone living is involved. 
 
 Arrivals do not correspond, then, and departures are sufficiently frequent only for any given passenger to miss any given bus while sufficiently infrequent such that the passenger must wait a lifetime for the next one. What results is a delicious, if unintended, fruit. Wakefield bus station becomes a de facto repository of brilliant mystique; there occurs an alluring accumulation of sublime everyday characters.
 
