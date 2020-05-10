@@ -38,7 +38,7 @@ I am not a homeowner. On the issue of home interiors, I do not have the means to
 
   Partisans of fitted carpet contend that it is soft underfoot and provides comfort and warmth. They acknowledge a debt to underlay which underprops these qualities and ultimately determines the carpet’s longevity. The wood flooring camp only have one retort, though it is unanswerable. They highlight, correctly, that fitted carpets fall short on hygiene.  
 
-  Rugs boast similar benefits to those of carpet but can be washed more thoroughly and with less difficulty. 
+  Rugs boast similar benefits to those of carpet but can be washed more thoroughly and with less difficulty. Outside of northern Europe, if the climate is appropriate, tiles can substitute wood. 
   
 <br>
 
