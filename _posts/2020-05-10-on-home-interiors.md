@@ -36,7 +36,7 @@ I am not a homeowner. On the issue of home interiors, I do not have the means to
 
 * The ‘wood flooring versus fitted carpet’ debate continues in all quarters, but there is a third solution: an amenable rug on a wooden floor. 
 
-  Partisans of fitted carpet contend that it is soft underfoot and provides warmth. They acknowledge a debt to underlay which underprops these qualities and ultimately determines the carpet’s longevity. The wood flooring camp only have one retort, though it is unanswerable. They highlight, correctly, that fitted carpets fall short on hygiene.  
+  Partisans of fitted carpet contend that it is soft underfoot, providing comfort and warmth. They acknowledge a debt to underlay which underprops these qualities and ultimately determines the longevity of the carpet. The wood flooring camp only have one retort, though it is unanswerable. They highlight, correctly, that fitted carpets fall short on hygiene.  
 
   Rugs boast similar benefits to those of carpet but can be washed more thoroughly and with less difficulty. Outside of northern Europe, if the climate is appropriate, tiles can substitute wood. 
   
