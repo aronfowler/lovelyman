@@ -24,19 +24,19 @@ I am not a homeowner. On the issue of home interiors, I do not have the means to
 
 <br>
 
-* Paintings in contemporary art museums, divide visitors broadly into two categories: those who pretend the work on display is somehow comprehensible; and those who admit openly that the work on display is, in reality, incomprehensible. Paintings in the home, by contrast, do not divide people along the same lines because they remain a background feature that is not called forward for particular inspection, and so their meaning never comes into question. 
+* Paintings in contemporary art museums, divide visitors broadly into two categories: those who admit openly the work on display is incomprehensible; and those who pretend it somehow makes sense. Paintings in the home, by contrast, do not divide people along the same lines because they remain a background feature that is not called forward for particular inspection, and so their meaning never comes into question. 
 
   A painting of unpretentious composition will mitigate the brutality of a bare wall, particularly if the wall is painted a neutral colour. But, in the first instance, it would be an error to have walls painted a neutral colour; an appropriate wallpaper should be selected for more comforting results. Bathrooms walls may be tiled if affordable at the time. 
 
 <br>
 
-* To live without windowsills is extremely traumatic. Windowsills are, therefore, essential.
+* To live without windowsills is deeply traumatic. Windowsills are, therefore, essential.
 
 <br>
 
 * The ‘wood flooring versus fitted carpet’ debate continues in all quarters, but there is a third solution: an amenable rug on a wooden floor. 
 
-  Partisans of fitted carpet contend that it is soft underfoot and provides comfort and warmth. They acknowledge a debt to underlay which underprops these qualities and ultimately determines the carpet’s longevity. The wood flooring camp only have one retort, though it is unanswerable. They highlight, correctly, that fitted carpets fall short on hygiene.  
+  Partisans of fitted carpet contend that it is soft underfoot and provides warmth. They acknowledge a debt to underlay which underprops these qualities and ultimately determines the carpet’s longevity. The wood flooring camp only have one retort, though it is unanswerable. They highlight, correctly, that fitted carpets fall short on hygiene.  
 
   Rugs boast similar benefits to those of carpet but can be washed more thoroughly and with less difficulty. Outside of northern Europe, if the climate is appropriate, tiles can substitute wood. 
   
@@ -44,10 +44,8 @@ I am not a homeowner. On the issue of home interiors, I do not have the means to
 
 * Visitors to the United Kingdom often complain of a plumbing set-up whereby hot and cold taps are separate and distinct, although this occurs much less in modern homes. They find the choice between scolding and freezing unreasonable when these extremes could be combined in one tap to produce water of a more agreeable temperature. These visitors make a good case but, ultimately, must be ignored.
 
-  Two taps above one sink serve as a healthy reminder that any living arrangement is a matter of give and take, and it is through give and take that balance and harmony in the home is truly achieved. In light of this, Feng Shui need not be practiced (see below). 
+  Two taps above one sink serve as a healthy reminder that any living arrangement is a matter of give and take, and it is through give and take that balance and harmony in the home is truly achieved. Thus, Feng Shui need not be practiced. 
   
-<br>
-  
-* The practice of Feng Shui need not be entertained with any seriousness owing to its logical incoherence and certain structural contradictions. 
 
-  According to its doctrine, for example, water should be present and visible in order that all elements are in balance. At the same time, to prevent the loss of positive energies, toilet lids must be closed when not in use. If the toilet lid is closed, however, the water within the toilet, the only body of water in the bathroom, is no longer visible and the elements become unbalanced. There again, if the toilet lid is not closed, the water is visible but to the loss of positive energies.   
+  
+
