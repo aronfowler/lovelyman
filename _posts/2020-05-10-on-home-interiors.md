@@ -24,7 +24,7 @@ I am not a homeowner. On the issue of home interiors, I do not have the means to
 
 <br>
 
-* Paintings in contemporary art museums, divide visitors broadly into two categories: those who admit openly the work on display is incomprehensible; and those who pretend it somehow makes sense. Paintings in the home, by contrast, do not divide people along the same lines because they remain a background feature that is not called forward for particular inspection, and so their meaning never comes into question. 
+* Paintings in contemporary art museums divide visitors broadly into two categories: those who admit openly the work on display is incomprehensible; and those who pretend it somehow makes sense. Paintings in the home, by contrast, do not divide people along the same lines because they remain a background feature that is not called forward for particular inspection, and so their meaning never comes into question. 
 
   A painting of unpretentious composition will mitigate the brutality of a bare wall, particularly if the wall is painted a neutral colour. But, in the first instance, it would be an error to have walls painted a neutral colour; an appropriate wallpaper should be selected for more comforting results. Bathrooms walls may be tiled if affordable at the time. 
 
