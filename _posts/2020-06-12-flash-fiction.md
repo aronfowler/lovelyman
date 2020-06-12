@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flash Fiction: Staffroom Anthropologists 
+title: "Flash Fiction: Staffroom Anthropologists" 
 summary:
 date: 2020-06-12 20:27:00 +0100
 author: Lovely Man
@@ -19,7 +19,7 @@ Desperate for a theory, the anthropologists said that Dawn and Naheed entrusted 
 
 The astute anthropologists began to detect habits and patterns of behaviour. Every break time alike, Dawn and Naheed would occupy the seating area as if it was made specifically for sitting down. The seating area was an unflinching coffee table encircled by low-lying steel frame chairs, block padded and upholstered beetroot. In the Middle Ages, it became possible to build chimneys inside the house and familial congregations formed around the hearth. In a similar fashion, they reasoned that when seating areas were installed into staffrooms, common employees gathered around a biscuit tin – and in the case of Dawn and Naheed, the biscuit tin was generous.  
 
-In every society, the body has been a site of attention, subject to obligations, constraints and prohibitions. Hence, the anthropologists were quick to record that Dawn and Naheed claimed to follow a Slimming World regime. But the biscuit tin testified to the contrary. The women had only a vague concern for losing weight. 
+In every society, the body has been a site of attention, subject to obligations, constraints and prohibitions. Hence, the anthropologists were quick to record that Dawn and Naheed claimed to follow a Slimming World regime. But the biscuit tin testified to the contrary; the women had only a vague concern for losing weight. 
 
 Between custard cream and Jammy Dodger, Dawn turned to Naheed, 
 
