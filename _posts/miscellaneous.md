@@ -1,12 +1,17 @@
 ---
 layout: post
-title: On Home Interiors
+title: Miscellaneous
 summary: 
 date: 2020-05-10
 author: Lovely Man
 ---
 <br>
+The analytic philosopher Harry Frankfurt identified a phenomenon and called it by name: bullshit. It is a lack of concern for truth and falsity. It is an indifference to sincerity and insincerity. Its motivation is not to say things that are true, or even things that are false, but to serve some other purpose. The sole purpose of this slowly growing collection of miscellaneous writing is to entertain.   
+<br>
 
+# On Home Interiors
+_originally published in Sky Island Journal issue 14_
+<br>
 I am not a homeowner. On the issue of home interiors, I do not have the means to put theory into practice. I regard it responsible, however, to have contingencies in place should I be called to make arrangements regarding fixtures and fittings. Considerations herein are, therefore, preparatory and recorded only to provide a guiding document.  
 <br>
 
