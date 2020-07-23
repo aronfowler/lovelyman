@@ -12,6 +12,7 @@ The analytic philosopher Harry Frankfurt identified a phenomenon and called it b
 # On Home Interiors
 _originally published in Sky Island Journal issue 14_
 <br>
+
 I am not a homeowner. On the issue of home interiors, I do not have the means to put theory into practice. I regard it responsible, however, to have contingencies in place should I be called to make arrangements regarding fixtures and fittings. Considerations herein are, therefore, preparatory and recorded only to provide a guiding document.  
 <br>
 
