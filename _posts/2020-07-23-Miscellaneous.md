@@ -10,7 +10,7 @@ The analytic philosopher Harry Frankfurt identified a phenomenon and called it b
 <br>
 
 # On Home Interiors
-_originally published in Sky Island Journal issue 14_
+_originally published in Sky Island Journal issue 13_
 
 <br>
 
