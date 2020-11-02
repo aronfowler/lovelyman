@@ -9,6 +9,41 @@ author: Lovely Man
 The analytic philosopher Harry Frankfurt identified a phenomenon and called it by name: bullshit. It is a lack of concern for truth and falsity. It is an indifference to sincerity and insincerity. Its motivation is not to say things that are true, or even things that are false, but to serve some other purpose. The sole purpose of this slowly growing collection of miscellaneous writing is to entertain.   
 <br>
 
+# Staffroom Anthropologists
+
+<br>
+
+When Ed Said exposed the link between power and ethnocentric representation, certain Western academics on the rebound increasingly thought it best to leave the exotic elsewhere alone. They steered their gaze closer to home and studied people who looked like them. It followed that aspiring anthropologists who had not had the means to intrude on native Amazonians discovered they were always already in the field - in the supermarket, in the hairdressers, at work - only they had not taken care to make observations.
+
+Thereafter, there developed amongst some an almost palpable penchant for prosaic practices. The Far East was still far away but now far from their concern. They devised a new methodology which was only a variant of the old one, and began to integrate themselves as admin assistants in various HR departments across the North of England. Their aim was to access and interpret a plentiful cultural text that lived and breathed: the staffroom phenomenon of Dawn and Naheed.
+
+A preliminary survey of the staffroom’s spatial composition proved worthwhile when they noticed the sink was plumbed in and guaranteed to go nowhere. A tower of Avon brochures was under construction and scheduled to hit the ceiling soon. It was going nowhere either. But the tower was not firmly fixed in place; unlike the sink, it did not have deep tubular roots and it was not stubbornly entrenched in a kitchen style work surface.
+
+If Dawn and Naheed perceived objects to have a stable location, they owed it all to that reliable, invariable reference point still going nowhere: the sink. (Semi-clean mugs were cached on the shelf above. Toaster, microwave and kettle lined up adjacent. Abrasive blue carpet tiles extended outwards from beneath towards a quite orthodox seating area three metres in front.)
+
+The astute anthropologists began to detect habits and patterns of behaviour. Every break time alike, Dawn and Naheed would occupy the seating area as if it was made specifically for sitting down. The seating area was an unflinching coffee table encircled by low-lying steel frame chairs, block padded and upholstered beetroot. In the Middle Ages, it became possible to build chimneys inside the house and familial congregations formed around the hearth. In a similar fashion, when seating areas were installed into staffrooms, common employees gathered around a biscuit tin – and in the case of Dawn and Naheed, the biscuit tin was generous.
+
+In every society, the body has been a site of attention, subject to obligations, constraints and prohibitions. Hence, the anthropologists were quick to record that Dawn and Naheed claimed to follow a Slimming World regime. But the biscuit tin testified to the contrary. The women had only a loose concern for losing weight.
+
+Between custard cream and chocolate digestive, Dawn turned to Naheed,
+<br>
+“We off to Fat Club this Saturday?”
+<br>
+“Well, I ought to. I’ve been terrible this week, me.” Naheed replied.
+<br>
+“I know. Our Paul brought cheesecake home from work. And we had chips.”
+<br>
+But underneath it all, the surplus calories seemed to come with a certain surplus enjoyment. Slimming World served to impose limits that were safe to breach, there was a thrill of transgression, and scones were more delicious when they were not permitted. Diogenes of Sinope said that hunger was the best sauce, but Slimming World offered a better one: the pretence of prohibition.
+
+Naheed showed Dawn a picture of her garden. Dawn asked Naheed if she wanted a Cup-a-Soup. Naheed declined. Finally, the anthropologists attempted to engage the ladies and probe deeper cultural themes,
+<br>
+“What do you think about death?”
+<br>
+Dawn was not so keen on the idea. Naheed, likewise, didn’t fancy dying just yet
+
+<br>
+
+
 # On Home Interiors
 _originally published in Sky Island Journal issue 13_
 
@@ -56,36 +91,6 @@ I am not a homeowner. On the issue of home interiors, I do not have the means to
 <br>
 <br>
 
-# Staffroom Anthropologists
 
-<br>
-
-When Ed Said exposed the link between power and ethnocentric representation, certain Western academics on the rebound increasingly thought it best to leave the exotic elsewhere alone. They steered their gaze closer to home and studied people who looked like them. It followed that aspiring anthropologists who had not had the means to intrude on native Amazonians discovered they were always already in the field - in the supermarket, in the hairdressers, at work - only they had not taken care to make observations.
-
-Thereafter, there developed amongst some an almost palpable penchant for prosaic practices. The Far East was still far away but now far from their concern. They devised a new methodology which was only a variant of the old one, and began to integrate themselves as admin assistants in various HR departments across the North of England. Their aim was to access and interpret a plentiful cultural text that lived and breathed: the staffroom phenomenon of Dawn and Naheed.
-
-A preliminary survey of the staffroom’s spatial composition proved worthwhile when they noticed the sink was plumbed in and guaranteed to go nowhere. A tower of Avon brochures was under construction and scheduled to hit the ceiling soon. It was going nowhere either. But the tower was not firmly fixed in place; unlike the sink, it did not have deep tubular roots and it was not stubbornly entrenched in a kitchen style work surface.
-
-If Dawn and Naheed perceived objects to have a stable location, they owed it all to that reliable, invariable reference point still going nowhere: the sink. (Semi-clean mugs were cached on the shelf above. Toaster, microwave and kettle lined up adjacent. Abrasive blue carpet tiles extended outwards from beneath towards a quite orthodox seating area three metres in front.)
-
-The astute anthropologists began to detect habits and patterns of behaviour. Every break time alike, Dawn and Naheed would occupy the seating area as if it was made specifically for sitting down. The seating area was an unflinching coffee table encircled by low-lying steel frame chairs, block padded and upholstered beetroot. In the Middle Ages, it became possible to build chimneys inside the house and familial congregations formed around the hearth. In a similar fashion, when seating areas were installed into staffrooms, common employees gathered around a biscuit tin – and in the case of Dawn and Naheed, the biscuit tin was generous.
-
-In every society, the body has been a site of attention, subject to obligations, constraints and prohibitions. Hence, the anthropologists were quick to record that Dawn and Naheed claimed to follow a Slimming World regime. But the biscuit tin testified to the contrary. The women had only a loose concern for losing weight.
-
-Between custard cream and chocolate digestive, Dawn turned to Naheed,
-
-“We off to Fat Club this Saturday?”
-
-“Well, I ought to. I’ve been terrible this week, me.” Naheed replied.
-
-“I know. Our Paul brought cheesecake home from work. And we had chips.”
-
-But underneath it all, the surplus calories seemed to come with a certain surplus enjoyment. Slimming World served to impose limits that were safe to breach, there was a thrill of transgression, and scones were more delicious when they were not permitted. Diogenes of Sinope said that hunger was the best sauce, but Slimming World offered a better one: the pretence of prohibition.
-
-Naheed showed Dawn a picture of her garden. Dawn asked Naheed if she wanted a Cup-a-Soup. Naheed declined. Finally, the anthropologists attempted to engage the ladies and probe deeper cultural themes,
-
-“What do you think about death?”
-
-Dawn was not so keen on the idea. Naheed, likewise, didn’t fancy dying just yet
   
 
