@@ -9,6 +9,7 @@ author: Lovely Man
 The analytic philosopher Harry Frankfurt identified a phenomenon and called it by name: bullshit. It is a lack of concern for truth and falsity. It is an indifference to sincerity and insincerity. Its motivation is not to say things that are true, or even things that are false, but to serve some other purpose. The sole purpose of this slowly growing collection of miscellaneous writing is to entertain.   
 <br>
 
+
 # Staffroom Anthropologists
 
 <br>
@@ -26,19 +27,31 @@ The astute anthropologists began to detect habits and patterns of behaviour. Eve
 In every society, the body has been a site of attention, subject to obligations, constraints and prohibitions. Hence, the anthropologists were quick to record that Dawn and Naheed claimed to follow a Slimming World regime. But the biscuit tin testified to the contrary. The women had only a loose concern for losing weight.
 
 Between custard cream and chocolate digestive, Dawn turned to Naheed,
+
 <br>
+
 “We off to Fat Club this Saturday?”
+
 <br>
+
 “Well, I ought to. I’ve been terrible this week, me.” Naheed replied.
+
 <br>
+
 “I know. Our Paul brought cheesecake home from work. And we had chips.”
+
 <br>
+
 But underneath it all, the surplus calories seemed to come with a certain surplus enjoyment. Slimming World served to impose limits that were safe to breach, there was a thrill of transgression, and scones were more delicious when they were not permitted. Diogenes of Sinope said that hunger was the best sauce, but Slimming World offered a better one: the pretence of prohibition.
 
 Naheed showed Dawn a picture of her garden. Dawn asked Naheed if she wanted a Cup-a-Soup. Naheed declined. Finally, the anthropologists attempted to engage the ladies and probe deeper cultural themes,
+
 <br>
+
 “What do you think about death?”
+
 <br>
+
 Dawn was not so keen on the idea. Naheed, likewise, didn’t fancy dying just yet
 
 <br>
